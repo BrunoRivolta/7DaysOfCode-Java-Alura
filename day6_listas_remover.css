@@ -1,0 +1,21 @@
+body {
+    color: aliceblue;
+    font-family: 'Open Sans', sans-serif;
+    background: rgb(38, 38, 38);
+}
+
+h1 {
+    margin-left: 60px;
+    font-size: 18px;
+}
+
+h2 {
+    margin-left: 30px;
+    font-size: 16px;
+}
+
+p {
+    margin-left: 35px;
+    margin: 5px, 0;
+    font-size: 14px;
+}
